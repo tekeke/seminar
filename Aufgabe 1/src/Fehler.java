@@ -1,20 +1,21 @@
 
 class Fehler {
 
-	Integer variable1
+	Integer variable1;
 	
-	Integer variable 2;
+	Integer variable;
 	
-	String variable3;
+	int variable2;
 	
-	Boolean variable3;
+	int variable3;
 	
-	void methode1 {
+	void methode1() {
 		System.out.println("Methode 1 aufgerufen");
 	}
 	
 	void methode2() {
 		System.out.println("Methode 2 aufgerufen");
+	}	
 	
 	void methode3() {
 		System.out.println("Methode 3 aufgerufen");
